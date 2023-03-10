@@ -23,7 +23,7 @@ body{
 .container{
   margin: 0 auto;
   max-width: 320px ;
-  height: 520px;
+  height: 500px;
   background-color: var(--White);
   padding:1rem;
   overflow: hidden;
@@ -38,9 +38,9 @@ body{
 
 }
 .title-qr-code{
- margin:1.4rem 0;
+ margin:0.8rem 0;
   font-weight: 700;
-
+  color: var(--Dark-blue);
 }
 .info-qr-code{
   color: var(--Grayish-blue);
