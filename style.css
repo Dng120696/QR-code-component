@@ -23,7 +23,7 @@ body{
 .container{
   margin: 0 auto;
   max-width: 320px ;
-  height: 500px;
+  min-height: 500px;
   background-color: var(--White);
   padding:1rem;
   overflow: hidden;
