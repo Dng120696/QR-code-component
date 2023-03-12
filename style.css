@@ -34,7 +34,7 @@ body{
 
 .qr-code{
  width: 100%;
-  border-radius: 20px;
+  border-radius: 10px;
 
 }
 .title-qr-code{
@@ -46,7 +46,7 @@ body{
   color: var(--Grayish-blue);
   font-size: 15px;
   letter-spacing: 1px;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
 @keyframes opacity {
   0%{
